@@ -9,7 +9,7 @@ WorldLink is a mod that enables real-time cabinet-to-cabinet multiplayer with fr
 
 To use WorldLink, you need KanadeDX version **250306.0850** or later. Enable the **WorldLink Mod** in the launcher settings before starting the game.
 
-![WorldLink Setting](../../../assets/docs/worldlink-setting.png)
+![WorldLink Setting](../../../assets/docs/worldlink-setting.jpg)
 
 #### Selecting a Server
 
