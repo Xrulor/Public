@@ -95,6 +95,8 @@ Here is a list of devices that are compatible with KanadeDX. If you have a devic
   ("Stutters a bit when there's a lot of notes, but still very playable")
 - ⚠️ Xiaomi Pad 5 (2021, Snapdragon 860, 6GB)  
   ("A bit laggy, feel like 30fps")
+- ⚠️ Xiaomi Pad 6 Pro (2023, Snapdragon 8+ Gen 1, 8GB)  
+  ("A bit laggy, with an average of 40fps in game")
 
 **??????**
 
