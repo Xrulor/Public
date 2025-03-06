@@ -3,8 +3,6 @@ title: WorldLink 多人游戏
 description: 如何在 KanadeDX 中进行多人游戏。
 ---
 
-## WorldLink 多人游戏
-
 WorldLink 是一个模组，使玩家能够与全球的朋友或随机玩家进行实时的机台对机台多人游戏。该模组最初由 AquaDX 团队开发，并已集成到 KanadeDX 中。
 
 ### 1. 设置方法

@@ -3,8 +3,6 @@ title: WorldLink Multiplayer
 description: How to play multiplayer in KanadeDX.
 ---
 
-## WorldLink Multiplayer
-
 WorldLink is a mod that enables real-time cabinet-to-cabinet multiplayer with friends or random players worldwide. Originally developed by the AquaDX team, it has since been integrated into KanadeDX.
 
 ### 1. Setting Up
