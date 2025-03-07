@@ -5,6 +5,8 @@ description: A list of devices that are compatible with KanadeDX.
 
 Here is a list of devices that are compatible with KanadeDX. If you have a device that is not listed here, please let us know so we can add it to the list.
 
+The community has also created a [detailed device compatibility table](https://docs.google.com/spreadsheets/d/1I8QDr8tsBrXgUdMiiyZSN8dX4CF3gUflW7iTvO10zm8/edit) that you can check for more information. Please fill out the [compatibility form](https://forms.gle/sAerwrrjj6zSuoFD7) if you want to contribute.
+
 ### Requirements
 
 **Minimum**

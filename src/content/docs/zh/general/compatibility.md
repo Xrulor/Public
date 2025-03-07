@@ -3,7 +3,9 @@ title: 兼容设备列表
 description: 与KanadeDX兼容的设备清单
 ---
 
-以下是支持KanadeDX运行的设备列表。若您的设备未在列表中，请告知我们以便添加。
+以下是 KanadeDX 的兼容设备列表。如果您的设备未在此列出，请告知我们以便添加至列表。
+
+社区还创建了[详细设备兼容性表格](https://docs.google.com/spreadsheets/d/1I8QDr8tsBrXgUdMiiyZSN8dX4CF3gUflW7iTvO10zm8/edit)可供查阅。若您想参与贡献，请填写[兼容性提交表格](https://forms.gle/sAerwrrjj6zSuoFD7)。
 
 ### 系统需求
 
